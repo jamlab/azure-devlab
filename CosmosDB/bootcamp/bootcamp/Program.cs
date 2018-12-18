@@ -10,7 +10,7 @@ namespace bootcamp
     class Program
     {
         private const string account = "https://532lab.documents.azure.com:443/";
-        private const string key = "AZHpvBPjWLZaWrwWvaC4n3dpAQ4rznDzrwMULY7FARdiY5UiLbRDCK7tAupUHFdo2iRSfd71lrP3Sd2LIXxBfw==";
+        private const string key = "==";
         static void Main(string[] args)
         {
             //CreateDB().Wait();
