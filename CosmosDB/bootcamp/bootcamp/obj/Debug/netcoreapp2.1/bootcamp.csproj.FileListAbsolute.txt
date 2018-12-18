@@ -1,0 +1,13 @@
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\bootcamp.deps.json
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\bootcamp.runtimeconfig.json
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\bootcamp.runtimeconfig.dev.json
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\bootcamp.dll
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\obj\Debug\netcoreapp2.1\bootcamp.csprojAssemblyReference.cache
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\obj\Debug\netcoreapp2.1\bootcamp.csproj.CoreCompileInputs.cache
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\obj\Debug\netcoreapp2.1\bootcamp.AssemblyInfoInputs.cache
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\obj\Debug\netcoreapp2.1\bootcamp.AssemblyInfo.cs
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\bin\Debug\netcoreapp2.1\bootcamp.pdb
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\obj\Debug\netcoreapp2.1\bootcamp.dll
+B:\Source\azure-devlab\CosmosDB\bootcamp\bootcamp\obj\Debug\netcoreapp2.1\bootcamp.pdb
